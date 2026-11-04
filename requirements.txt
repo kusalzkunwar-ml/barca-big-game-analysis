@@ -1,0 +1,9 @@
+pandas>=3.0
+numpy
+pyarrow
+duckdb>=1.1
+scikit-learn>=1.5
+matplotlib
+mplsoccer
+requests
+jupyter
