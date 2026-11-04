@@ -88,4 +88,4 @@ jupyter nbconvert --to notebook --execute --inplace notebooks/analysis.ipynb
 - The xG models are calibrated on a Barça-heavy sample (Barça scored ~14% above StatsBomb xG).
 
 Data: [StatsBomb Open Data](https://github.com/statsbomb/open-data), used under its open-data licence.
-Built by Kusal Kunwar · also on Factoskus (football tactics shorts).
+Built by Kusal Kunwar.
